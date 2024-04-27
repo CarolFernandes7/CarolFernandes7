@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Carol Fernandes
 - 👀 I’m interested in learning and practicing my skills 
-- 🌱 I’m currently learning JavaScript/HTML/CSS
+- 🌱 JavaScript| HTML | CSS | Python| Analytics | GCP | GTM
 - 💞️ I’m looking to collaborate in everthing can!
 - 📫 How to reach me: carolinefernandes07@yahoo.com.br.
 
